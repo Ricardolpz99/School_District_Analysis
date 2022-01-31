@@ -40,7 +40,7 @@ Thomas HS is a medium-sized school, when making the adjustments previously descr
 ![ size.png]( https://github.com/Ricardolpz99/School_District_Analysis/blob/main/Resources/size.png)
 ### Scores by school type
 Thomas HS is a charter school and similarly no change is observed 
-#### Figure 7. School type data frame
+#### Figure 8. School type data frame
 --------
 ![ school_type.png]( https://github.com/Ricardolpz99/School_District_Analysis/blob/main/Resources/school_type.png)
 ## Summary
